@@ -1,1 +1,2 @@
-moja vjezba za git
+moja vjezba za git.
+za sada mi dobro ide.
